@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKutochi
-- 👀 I’m interested in Python and Pygame
-- 🌱 I’m currently learning Python and Pygame
+- 👀 I’m interested in Linux, C and Python
+- 🌱 I’m currently learning Arch, Gentoo and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
